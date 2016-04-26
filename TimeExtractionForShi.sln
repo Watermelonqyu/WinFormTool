@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeExtractionForShi", "TimeExtractionForShi\TimeExtractionForShi.csproj", "{9F11D53A-7A18-434B-AE63-050259EE4EE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSALMongo", "..\..\WebAPI\csal-db-master\CSALMongo\CSALMongo.csproj", "{BC5B872C-33E0-4BDE-AFEA-0E61591FE918}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F11D53A-7A18-434B-AE63-050259EE4EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F11D53A-7A18-434B-AE63-050259EE4EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F11D53A-7A18-434B-AE63-050259EE4EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F11D53A-7A18-434B-AE63-050259EE4EE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC5B872C-33E0-4BDE-AFEA-0E61591FE918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5B872C-33E0-4BDE-AFEA-0E61591FE918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5B872C-33E0-4BDE-AFEA-0E61591FE918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5B872C-33E0-4BDE-AFEA-0E61591FE918}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
